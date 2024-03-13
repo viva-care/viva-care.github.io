@@ -1,0 +1,6 @@
+title: Viva.Care - versão 5
+description: Gerenciador de Versão e Melhorias Viva.Care
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+exclude: [.gitmodules]
