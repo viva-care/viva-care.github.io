@@ -2,6 +2,47 @@
 layout: default
 ---
 
+## Versão 5.4.20
+_em 02/04/2024_
+
+### Adicionados
+* Migrar Mensageria da Blue Med do 360 para a Fortics #1585
+* Criação de novos Ambientes.... (Bucha) #1588
+* MedSolution - Export do Financeiro .... Listagens #1641
+* Pagamento a vista, emissão de Lote - CNAB #1664
+* Modulo de Listagens - Busca de Plantoes Realizados e Por Status #1666
+* Criar Fila de Espera para Agendamento de Procedimentos #1670
+* Implementar Modulo de Disponibilidade #1673
+* Resgatar último questionário preenchido e dar a opção de auto-preencher #1674
+* Modulo de Listagens - Busca de Profissionais x Contas Bancárias #1675
+* Ajustes no Extrato do Profissional #1691
+* Incluir a coluna "Nome da Grade" nos menus: Check-in/OUT e Check-ins aprovados, entre as colunas Contrato e Plantão #1702
+* No Extrato do Profissional, incluir a coluna "Nome da Grade", entre as colunas "Plantão" e "Grade" #1703
+
+### Corrigidos
+* CNAB - Fechamento #1615
+* Exportação XLSs Fechamento #1631
+* Demonstrativo de Recebiveis, esta exibindo plantoes cancelados #1669
+* Modulo de Listagens - Busca de Plantoes Entrada e Saida #1680
+* Escala - ERRO em Plantoes Parciais Noturno x Duplicidade #1684
+* Erros na Escala - Inclusao de Plantao/ Exibir o tipo do contrato - Medsolution #1687
+* Ajustes Medsolution - Fechamento e Listagens #1690
+* Erros de Pagamento a Vista #1692
+* AGENDAMENTO - Bug no controle de DUPLICIDADE #1694
+* APP ANDROID - Falha no Extrato do Profissional... #1695
+* Pagamento do Plantão Personalizado - Valor do Plantão #1696
+* Fechamento - WHERE STATUS=1 ===>Calcular Valor Faturado SE PERCENTUAL #1699
+* Bug no calculo de Horas x Valor - No momento da aprovação do plantão #1701
+* Na Escala / Plantão Parcial - O ícone do "Lápis de Edição" quebrou para fora do quadradinho do plantão #1704
+* MENU de Exportar o Relatório do fechamento no Status 2 #1705
+* Erro na Confirmação do Pagamento À Vista #1706
+* Erro ao Gerar o Remessa no Fechamento ref. 182 #1708
+* Extrato - Trazer o Cabeçalho com os dados do Contrato Tomador #1709
+* Editar Grade #1710
+* Fechamento - Mudança de ABA do Fechamento. #1711
+* Mensageria de Agendamento de Procedimentos -> Mensagem de Confirmacao do Whatsapp nao envia... #1712
+* Escalas no Fechamento #1713
+
 ## Versão 5.4.19
 _em 05/02/2024_
 
