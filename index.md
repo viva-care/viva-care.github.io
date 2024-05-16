@@ -2,6 +2,20 @@
 layout: default
 ---
 
+## Versão 5.4.21
+_em 15/05/2024_
+
+### Adicionados
+* API - Emissao da CCB #1652
+* Fluxo de Antecipação.... Novo Status para Validar a Antecipação #1654
+* Registro de Agendamento do TIPO RETORNO #1717
+* Integração WHEREBY X Viva.Care #1723
+* Controle de Bloqueio do Profissional #1724
+
+### Corrigidos
+* Erros na Escala - Conflito - Medsolution #1685
+
+
 ## Versão 5.4.20
 _em 02/04/2024_
 
