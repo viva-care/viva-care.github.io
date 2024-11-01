@@ -2,6 +2,74 @@
 layout: default
 ---
 
+## Versão 5.4.22
+_em 31/10/2024_
+
+### Adicionados
+* Fluxo de Antecipação.... Novo Status para Validar a Antecipação #1654
+* Alerta de outras Opção de Atendimento #1719
+* Alerta de NIP, Liminar e Absenteismo #1720
+* Integração WHEREBY X Viva.Care #1723
+* Criar E-mail para Plantões Vagos que estão sendo anunciados no APP #1727
+* Escala - Novo tipo de Anuncio Automático #1729
+* Incluir Plantões Fixos no Calendário, selecionando as datas dos plantões (Novo Formato) #1730
+* CRUD/ View - Para cadastrar Orientacoes/ Produtos #1731
+* Trava para Agendamento #1735
+* CRUD/ VIEW - Equipamentos x Produtos #1738
+* Controle - Liberar Antecipação #1740
+* Detalhar no APP os plantoes realizados. Com Detalhe para DISPONIVEL e NAO DISPOSIVEL #1742
+* Criar nível de Acesso Permissão Usuários - Módulo Transferência de Recebíveis #1743
+* Listagem de Antecipacoes, add Color #1745
+* Contrato de Locação - Adicionar a Relação Profissional do Contrato #1748
+* Perfil do Profissional - Listagem de Plantoes #1750
+* Implementar CCB para Profissional PJ #1751
+* APP Viva.Care - Tela de Plantões #1757
+* Extrato do Profissional - Sinalizar Plantões antecipados #1759
+* Pagamento à Vista - Incluir campo de Data que o pagamento foi feito #1760
+* Fechamento - Detalhes da Antecipacao #1762
+* Plantão Parcial -> Travar por Hora - 1/2 Hora #1764
+* Na Escala, Add Plantao Avulso/ Fixo (travar por Departamento) #1765
+* Demonstrativo do Recebimento #1767
+* Fechamento - Detalhes da Antecipação #1768
+* Melhorias no Fechamento #1775
+* Melhorias e Solicitacoes #1776
+* Baixa manual de Pagamento #1777
+* Trazer seleção de campo para Exames Tipo Ultrasson #1778
+* Dashboard de Não Conformidades #1779
+* Valor do Plantão no APP #1784
+* Download de tds documentos #1785
+* MENU Transferência de Recebíveis #1786
+* Trava acesso MOBILE #1787
+* Melhorias MedSolution - Solicitacoes #1789
+* Justificativa do Checkin/ Checkout #1790
+* IPS - Solicitações #1791
+* Dashboard - Visualização da Escala Diária #1792
+* Listagem de Plantões #1798
+
+### Corrigidos
+* Gestão de Conflitos na escala #1725
+* Lentidão ao Acessar as Escalas #1726
+* Erro Retorno TXT - Baixa de Pagamento PIX #1728
+* Mostrar o Questionario de Checklits em Exames que estão com Status Cancelado #1732
+* Excluir grade de Horários/ Disponibilidade (Procedimentos) #1733
+* Mudanças no envio das Mensagens do Agendamento #1734
+* Plantões divulgados no APP indevidamente. Nos dias citados, tem plantões parciais publicados. #1736
+* Reativar botão de Editar no Perfil da Escala #1737
+* Erro - Listagem de Plantões #1744
+* Cadastro de Profissionais -> Remover a Mascara do campo RG #1746
+* Profissional CLT x Contrato PJ ou Associado #1749
+* Horário Parcial do Plantão #1754
+* Extrato Profissional - Incluir Acréscimo na coluna de Descontos #1755
+* Erros - Casa de Saúde #1769
+* ERRO de Duplicidade de Agendamento para Terapias.... (semanal) #1771
+* Pagamento a Vista #1770
+* Divergência entre os plantões do Fechamento e Relatório Entrada e Saída #1773
+* Perfil do Profissional/ Telefones #1774
+* Ficha do Pagamento à Vista - Resumo da Solicitação e Plantão #1780
+* MENU Transferência de Recebíveis #1786
+* L&T - Fechamento - Itens para correção #1788
+* IPS - Solicitações #1791
+
 ## Versão 5.4.21
 _em 15/05/2024_
 
