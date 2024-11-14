@@ -2,6 +2,29 @@
 layout: default
 ---
 
+## Versão 5.4.23
+_em 13/11/2024_
+
+### Adicionados
+* Ajuste do Layout - Configurações do Profissional #1808
+* Ajuste no calculo de previsão de DataPagamento (Antecipação) #1812
+* Ajuste no cálculo da Taxa de Antecipação (Antecipação) developer #1813]
+* Modulo de Justificativa #1815
+* TRAVA PARA CHECKOUT - Limite de tempo... #1816
+* ADD Botão para RESETAR um Registro de CHECKIN / CHECKOUT #1817
+* No Relatorio de CheckIN-OUT #1820
+* ADD NIVEL Acesso para Resetar Dispositivo Profissional #1823
+
+### Corrigidos
+* IPS - Listagem de Plantões - Não traz todas as escalas #1797
+* Mensagem PUSH - Disparo para Plantões Antecipaveis #1802
+* HCSS - Erros no Agendamento e Bloqueio #1801
+* Exportação Listagem de Plantões #1803
+* Bluemed - Agendamento Link consulta Telemedicina #1806
+* IPS - Profissionais em Duplicidade #1807
+* IPS - Erro nos Plantões de Pagamentos à Vista, que tiveram um pedido reprovado #1814
+* APP Viva Care - Contagem dos plantões errado #1819
+
 ## Versão 5.4.22
 _em 31/10/2024_
 
