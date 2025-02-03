@@ -2,6 +2,38 @@
 layout: default
 ---
 
+## Versão 5.4.24
+_em 03/02/2025_
+
+### Adicionados
+* Planilha de Importação de Profissionais  #1622
+* Opção de Bloquear um Plantão #1772
+* Remessa - Campo PIX Máscara Telefone #1795
+* Documentos - PDF #1799
+* Botão para Desligar/ Ligar a Antecipação x Fechamento. #1818
+* Implementar um novo RELATORIO para Impressão #1821
+* Add um novo Status VAGO para a Escala #1822
+* Tela de Impressão para Transf. Recebiveis #1827
+* Modulo Perfis de Acesso - Usuário #1831
+* Solicitações Melhorias #1835
+* Pagamento a Vista - Fixo na Escala #1837
+* Modulo Contrato Profissional #1838
+* ADD A REF.EXTERNA NO COMBO DE TOMADORES #1839
+* PLANILHA/ ALERTA DE FUROS NA ESCALA #1851
+* Ajustes de Cores do Plantao/ Escala #1852
+* Relatório de Listagem Plantões Pagamentos #1853
+
+### Corrigidos
+* Planilha de Importação de Profissionais  #1622
+* Criar Equipamentos - Bluemed Unidade Santos #1804
+* TRAVA PARA CHECKOUT - Limite de tempo... #1816
+* No Relatorio de CheckIN/ OUT, add LINK para Profissional e Escala #1824
+* CIRMED - Contrato de Tomador #1836
+* AJUSTES MODULO PAGAMENTO A VISTA #1841
+* ERRO em Escalas -> Configurar Escala #1842
+* Listagem DISPOSITIVOS - Trazer ordenado por data decrescente #1844
+* MENU Pagamento à Vista - Campos de Filtros que não funcionam #1845
+
 ## Versão 5.4.23
 _em 13/11/2024_
 
