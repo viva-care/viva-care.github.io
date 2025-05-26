@@ -2,6 +2,44 @@
 layout: default
 ---
 
+## Versão 5.4.25
+_em 26/05/2025_
+
+### Adicionados
+* ADD BADGE DE CONFIRMACAO DO PLANTAO #1843
+* REGISTRAR as COORDENADAS no CHECKIN-OUT #1855
+* Em Fechamento > ABA Profissionais Pagos -> Add Nova Funcao - Estornar Pagamento #1857
+* Criar Export de Relatorios, agrupados... #1863
+* RELATORIO DE PLANTOES - IMPRESSAO LISTAGEM #1864
+* RELATORIO DE PLANTOES - EXPORT (EM GRUPO) #1866
+* FECHAMENTO DE PRODUCAO - IMPRESSAO DO FECHAMENTO #1867
+* RELATORIO DE ENTRADA E SAIDA #1870
+* Em PAGAMENTO A VISTA - add BUT ESTORNAR #1871
+* RELATORIO FINANCEIRO #1872
+* CRUD SETORES - ESCALA #1875
+* GERAR LOTE REMESSA- ANTECIPACAO #1876
+* RELATORIO DE ANTECIPACOES #1878
+* CADASTRO DE PROFISSIONAL #1879
+* Relatório de Plantões, Filtro Grupo, por Status do Plantão #1892
+* Busca de Plantoes - Ações em Lote #1894
+* Módulo Escala, Detalhar valores do plantão quando aprovado #1895
+* Modulo Notificações - PushNotifications #1897
+
+### Corrigidos
+* Relatório de Listagem Plantões Pagamentos #1853
+* Melhorias em Geral #1854
+* Start automatico para Antecipação #1858
+* Melhorias Review 24/02/25 - Modulo Escala SEMANAL #1861
+* Melhorias Review 05/03/25 - Melhorias no Fechamento #1869
+* RELATORIO FINANCEIRO AGRUPADO #1873
+* UNIFICAR COMBOS DE TIPO DO PLANTAO E STATUS PAGAMENTO #1877
+* ESCALA -> ALERTA DE PROFISSIONAIS NAO ATIVOS. #1882
+* ESCALA -> BAIXA PLANTAO -> ALERTA DE PROFISSIONAIS NAO ATIVOS #1883
+* PROFISSIONAIS -> ATIVAR UM PROFISSIONAL #1884
+* MELHORIAS NA ESCALA.... #1885
+* RELATORIO DE PLANTOES, Exibir o valor do Plantao quando Publicado #1891
+* VERSAO DE IMPRESSAO da ESCALA #1901
+
 ## Versão 5.4.24
 _em 03/02/2025_
 
